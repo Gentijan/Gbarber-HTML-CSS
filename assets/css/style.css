@@ -71,26 +71,4 @@ span {
 .contact1:active {
     color: lightblue;
 }
-
-.burger {
-    display: none;
-    cursor: pointer;
-}
-
-.burger:hover {
-    background-color: darkblue;
-}
-
-.burger:active {
-    background-color: blue;
-}
-
-.burger div {
-    width: 25px;
-    height: 3px;
-    background-color: rgb(214, 212, 212);
-    margin: 5px;
-    transition: all 0.3s ease;
-}
-
 /*End Navbar*/
